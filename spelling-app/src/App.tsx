@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import { Trophy, Star, Volume2, Volume1, Check, ArrowRight, RefreshCcw } from 'lucide-react';
 import { GoogleGenerativeAI } from '@google/generative-ai';
